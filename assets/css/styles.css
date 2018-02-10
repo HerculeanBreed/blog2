@@ -1,0 +1,27 @@
+body{
+	width: 60%;
+	margin: auto;
+}
+.header {
+	background:  #0984e3;
+}
+
+.main-content-area {
+	height: 75vh;
+	display: flex;
+}
+.blogroll {
+	width: 70%;
+}
+.sidebar {
+  background: #95a5a6;
+}
+.sidebar-item {
+  padding: 20px;	
+}
+
+
+.footer-content-area {
+	padding: 50px;
+	background: #34495e;
+}
